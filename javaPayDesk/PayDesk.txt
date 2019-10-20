@@ -1,0 +1,6 @@
+﻿bronze, silver and gold-classes that implement ICard.
+The tree of them have method turnover that return the rate.
+In PayDesk first -taking the values of turnover and the value
+of purchase of 1st clas-Bronze,oveeride and return rate.
+Then in PayDesk takes it to calculate the discount and total.
+Repeat for the other classes :Silver and Gold.
