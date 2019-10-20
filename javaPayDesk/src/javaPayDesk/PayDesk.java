@@ -5,7 +5,7 @@ import javaPayDesk.Bronze;
 import javaPayDesk.Silver;
 import javaPayDesk.Gold;
 
-public class PayDeck {
+public class PayDesk {
 
 	public static void main(String[] args) {
 		
